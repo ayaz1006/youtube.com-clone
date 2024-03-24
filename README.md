@@ -1,6 +1,6 @@
 #Youtube.com Clone
 
-<h6>Description</h6>: <b>Developed a responsive clone of the YouTube.com website’s landing page using HTML and vanilla CSS, focusing on user interface design and layout.</b>
+Description: Developed a responsive clone of the YouTube.com website’s landing page using HTML and vanilla CSS, focusing on user interface design and layout.
 
 •	Key Technologies: HTML, CSS
 
